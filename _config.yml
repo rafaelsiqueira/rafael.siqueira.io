@@ -1,6 +1,6 @@
 # main text of home
 name: Rafael Siqueira
-bio: Music + Technology + Cofee = ❤️
+bio: Music + Technology + Coffee = ❤️
 
 # twitter summary info
 description: A personal web about technology and stuff related. Software Engineering + Architecture + Agile
@@ -55,7 +55,7 @@ email: rafael@siqueira.net
 authors:
   rafaelsiqueira:
     name: Rafael Siqueira
-    bio: Music + Technology + Cofee = ❤️
+    bio: Music + Technology + Coffee = ❤️
     external-image: false
     picture: assets/images/profile.jpg
     twitter: rafaelsramos
